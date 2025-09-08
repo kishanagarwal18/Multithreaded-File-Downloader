@@ -61,6 +61,6 @@ Please feel free to contribute!!
 License
 =======
 
-     Copyright (c) 2025 Kishan Agarwal
+     Copyright (c) 2024 Kishan Agarwal
 
      Licensed under the MIT License. See the LICENSE file in the project root for full license text.
